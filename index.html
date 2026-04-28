@@ -74,8 +74,8 @@
 <div class="header">
   <h1>MECAT Benchmark</h1>
   <p>Multi-Expert Constructed Benchmark for Fine-Grained Audio Understanding Tasks</p>
-  <p>35 representative samples (5 per domain)</p>
   <div class="header-links">
+    <a href="https://arxiv.org/abs/2507.23511" target="_blank">Paper</a>
     <a href="https://github.com/xiaomi-research/mecat" target="_blank">GitHub</a>
     <a href="https://huggingface.co/datasets/mispeech/MECAT-Caption" target="_blank">MECAT-Caption</a>
     <a href="https://huggingface.co/datasets/mispeech/MECAT-QA" target="_blank">MECAT-QA</a>
@@ -83,15 +83,14 @@
 </div>
 
 <div class="filter-bar">
-  <button class="filter-btn active" data-domain="all">All</button>
   <button class="filter-btn" data-domain="00A">00A <span class="domain-desc">Sound</span></button>
   <button class="filter-btn" data-domain="0M0">0M0 <span class="domain-desc">Music</span></button>
   <button class="filter-btn" data-domain="0MA">0MA <span class="domain-desc">Music+Sound</span></button>
   <button class="filter-btn" data-domain="S00">S00 <span class="domain-desc">Speech</span></button>
   <button class="filter-btn" data-domain="S0A">S0A <span class="domain-desc">Speech+Sound</span></button>
   <button class="filter-btn" data-domain="SM0">SM0 <span class="domain-desc">Speech+Music</span></button>
-  <button class="filter-btn" data-domain="SMA">SMA <span class="domain-desc">Speech+Music+Sound</span></button>
-  <span class="sample-count" id="sampleCount">35 samples</span>
+  <button class="filter-btn active" data-domain="SMA">SMA <span class="domain-desc">Speech+Music+Sound</span></button>
+  <span class="sample-count" id="sampleCount">5 samples</span>
 </div>
 
 <div class="container" id="samples">
@@ -173,7 +172,7 @@ function filterSamples(domain) {
   document.querySelector(`[data-domain="${domain}"]`).classList.add('active');
   let c = 0;
   document.querySelectorAll('.sample-card').forEach(card => {
-    const show = domain === 'all' || card.dataset.domain === domain;
+    const show = card.dataset.domain === domain;
     card.style.display = show ? '' : 'none';
     if (show) c++;
   });
@@ -187,6 +186,7 @@ document.querySelectorAll('.filter-btn').forEach(btn =>
 loadData().then(samples => {
   samples.sort((a,b) => a.domain.localeCompare(b.domain) || a.sampleKey.localeCompare(b.sampleKey));
   document.getElementById('samples').innerHTML = samples.map(s => renderSample(s)).join('');
+  filterSamples('SMA');
 }).catch(err => {
   document.getElementById('samples').innerHTML = `<div class="loading">Error: ${err.message}</div>`;
 });
