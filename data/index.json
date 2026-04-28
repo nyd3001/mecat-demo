@@ -17,18 +17,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/00A/test_ryU8N2CgDdI-136.tar.gz",
       "caption_file": "00A/sample_3/caption.json",
       "qa_file": "00A/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "D8wenZQ4bqM_137_35899999999998_147_359",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/00A/test_D8wenZQ4bqM-137.tar.gz",
-      "caption_file": "00A/sample_4/caption.json",
-      "qa_file": "00A/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "DpDKW7sZO00_38_88335_48_8834",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/00A/test_DpDKW7sZO00-38.tar.gz",
-      "caption_file": "00A/sample_5/caption.json",
-      "qa_file": "00A/sample_5/qa.json"
     }
   },
   "0M0": {
@@ -49,18 +37,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0M0/test_bmMgPcTYRII-33.tar.gz",
       "caption_file": "0M0/sample_3/caption.json",
       "qa_file": "0M0/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "i9OMFdMMSNc_83_8625_93_8625",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0M0/test_i9OMFdMMSNc-83.tar.gz",
-      "caption_file": "0M0/sample_4/caption.json",
-      "qa_file": "0M0/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "ikHFRWfiUvs_19_4244_29_4244",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0M0/test_ikHFRWfiUvs-19.tar.gz",
-      "caption_file": "0M0/sample_5/caption.json",
-      "qa_file": "0M0/sample_5/qa.json"
     }
   },
   "0MA": {
@@ -81,18 +57,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0MA/test_xmUCIOKm01s-157.tar.gz",
       "caption_file": "0MA/sample_3/caption.json",
       "qa_file": "0MA/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "yqHDdd1UsLk_179_45_189_45",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0MA/test_yqHDdd1UsLk-179.tar.gz",
-      "caption_file": "0MA/sample_4/caption.json",
-      "qa_file": "0MA/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "yeYhv2d95o8_25_9167_35_9167",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/0MA/test_yeYhv2d95o8-25.tar.gz",
-      "caption_file": "0MA/sample_5/caption.json",
-      "qa_file": "0MA/sample_5/qa.json"
     }
   },
   "S00": {
@@ -113,18 +77,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S00/test_quPyL3SXsdk-46.tar.gz",
       "caption_file": "S00/sample_3/caption.json",
       "qa_file": "S00/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "3TLfaUYwcc8_0_7724500000000001_10_7724",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S00/test_3TLfaUYwcc8-0.tar.gz",
-      "caption_file": "S00/sample_4/caption.json",
-      "qa_file": "S00/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "6O2RbL88ZF4_265_0555_275_055",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S00/test_6O2RbL88ZF4-265.tar.gz",
-      "caption_file": "S00/sample_5/caption.json",
-      "qa_file": "S00/sample_5/qa.json"
     }
   },
   "S0A": {
@@ -145,18 +97,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S0A/test_rBPu6d8qwiA-523.tar.gz",
       "caption_file": "S0A/sample_3/caption.json",
       "qa_file": "S0A/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "uoUdsDDnOLo_264_08000000000004_274_08",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S0A/test_uoUdsDDnOLo-264.tar.gz",
-      "caption_file": "S0A/sample_4/caption.json",
-      "qa_file": "S0A/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "PXfzjhCtehM_132_14600000000002_142_146",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/S0A/test_PXfzjhCtehM-132.tar.gz",
-      "caption_file": "S0A/sample_5/caption.json",
-      "qa_file": "S0A/sample_5/qa.json"
     }
   },
   "SM0": {
@@ -177,18 +117,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SM0/test_3mu1laxAAds-30.tar.gz",
       "caption_file": "SM0/sample_3/caption.json",
       "qa_file": "SM0/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "kkWmzWWzXpc_86_15355_96_1535",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SM0/test_kkWmzWWzXpc-86.tar.gz",
-      "caption_file": "SM0/sample_4/caption.json",
-      "qa_file": "SM0/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "2gaHuQsR7fg_94_2868_104_287",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SM0/test_2gaHuQsR7fg-94.tar.gz",
-      "caption_file": "SM0/sample_5/caption.json",
-      "qa_file": "SM0/sample_5/qa.json"
     }
   },
   "SMA": {
@@ -209,18 +137,6 @@
       "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SMA/test_9zxI7AOapXA-132.tar.gz",
       "caption_file": "SMA/sample_3/caption.json",
       "qa_file": "SMA/sample_3/qa.json"
-    },
-    "sample_4": {
-      "audio_id": "zR8PyXV72jM_0_6222666500000001_10_6223",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SMA/test_zR8PyXV72jM-0.tar.gz",
-      "caption_file": "SMA/sample_4/caption.json",
-      "qa_file": "SMA/sample_4/qa.json"
-    },
-    "sample_5": {
-      "audio_id": "slq6k7qcwhg_68_72_78_72",
-      "audio_path": "https://huggingface.co/datasets/mispeech/MECAT-Caption/resolve/main/SMA/test_slq6k7qcwhg-68.tar.gz",
-      "caption_file": "SMA/sample_5/caption.json",
-      "qa_file": "SMA/sample_5/qa.json"
     }
   }
 }
