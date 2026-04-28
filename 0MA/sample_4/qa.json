@@ -1,0 +1,47 @@
+[
+  {
+    "yqHDdd1UsLk_179_45_189_45_b4666bf9": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of musical instrument is most prominent?",
+      "answer": "Electric guitar",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yqHDdd1UsLk_179_45_189_45_5151dd86": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you characterize the tonal quality of the guitar?",
+      "answer": "Dark and distorted with melodic phrasing",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yqHDdd1UsLk_179_45_189_45_2abbe66f": {
+      "category": "quality_assessment",
+      "difficulty": "advanced",
+      "question": "What evidence suggests suboptimal recording quality?",
+      "answer": "Persistent background distortion and signal noise",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yqHDdd1UsLk_179_45_189_45_8c6d8b53": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What musical elements create the dark atmosphere?",
+      "answer": "Minor key tonality, sustained distortion, and melancholic phrasing",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yqHDdd1UsLk_179_45_189_45_653485cc": {
+      "category": "environment_reasoning",
+      "difficulty": "intermediate",
+      "question": "Is there evidence of natural room acoustics?",
+      "answer": "No significant room reverberation detected",
+      "domain": "0MA"
+    }
+  }
+]

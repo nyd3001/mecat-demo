@@ -1,0 +1,47 @@
+[
+  {
+    "BHmTC7gGN38_118_0665_128_067_3202d17a": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of vocal expression is heard?",
+      "answer": "A distressed male voice",
+      "domain": "S0A"
+    }
+  },
+  {
+    "BHmTC7gGN38_118_0665_128_067_07fa7338": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Does the audio contain musical elements?",
+      "answer": "No musical instruments or melodies are present",
+      "domain": "S0A"
+    }
+  },
+  {
+    "BHmTC7gGN38_118_0665_128_067_127fb0f3": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What caused the speaker's distress based on audio content?",
+      "answer": "Perceived impact from a flying insect",
+      "domain": "S0A"
+    }
+  },
+  {
+    "BHmTC7gGN38_118_0665_128_067_7778066c": {
+      "category": "quality_assessment",
+      "difficulty": "complex",
+      "question": "How does the recording quality affect speech intelligibility?",
+      "answer": "Persistent distortion partially obscures vocal details",
+      "domain": "S0A"
+    }
+  },
+  {
+    "BHmTC7gGN38_118_0665_128_067_7b6e330a": {
+      "category": "environment_reasoning",
+      "difficulty": "intermediate",
+      "question": "Is there evidence of outdoor environmental sounds?",
+      "answer": "No discernible wind, nature, or crowd noises present",
+      "domain": "S0A"
+    }
+  }
+]

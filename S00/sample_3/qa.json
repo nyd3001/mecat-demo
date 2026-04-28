@@ -1,0 +1,47 @@
+[
+  {
+    "quPyL3SXsdk_46_3013_56_3013_46f4d450": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of vocal content is present?",
+      "answer": "A technical explanation about software navigation.",
+      "domain": "S00"
+    }
+  },
+  {
+    "quPyL3SXsdk_46_3013_56_3013_a6773fa4": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the speaker's emotional tone?",
+      "answer": "Consistently neutral and professional throughout.",
+      "domain": "S00"
+    }
+  },
+  {
+    "quPyL3SXsdk_46_3013_56_3013_2909072a": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What recording environment characteristics are evident?",
+      "answer": "Studio-like setting with controlled acoustics and minimal echo.",
+      "domain": "S00"
+    }
+  },
+  {
+    "quPyL3SXsdk_46_3013_56_3013_7189499a": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What type of production context does the audio suggest?",
+      "answer": "Educational or instructional recording meant for clear information delivery.",
+      "domain": "S00"
+    }
+  },
+  {
+    "quPyL3SXsdk_46_3013_56_3013_5a3c9a7e": {
+      "category": "quality_assessment",
+      "difficulty": "basic",
+      "question": "Are there any notable audio quality issues?",
+      "answer": "Minor variations in recording acoustics without significant interference.",
+      "domain": "S00"
+    }
+  }
+]

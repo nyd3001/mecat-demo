@@ -1,0 +1,47 @@
+[
+  {
+    "rBPu6d8qwiA_523_417_533_417_d4164f4c": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of non-vocal sounds are present?",
+      "answer": "Intermittent clicking sounds resembling mouse/keyboard use.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "rBPu6d8qwiA_523_417_533_417_667effdf": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the acoustic environment's reverberation?",
+      "answer": "Variable reverberation with short decay times, suggesting a moderately reflective space.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "rBPu6d8qwiA_523_417_533_417_b69f9f86": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What recording setting does the acoustic profile suggest?",
+      "answer": "A small practical workspace rather than sound-isolated studio.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "rBPu6d8qwiA_523_417_533_417_eff0919d": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "How clear is the primary speech content?",
+      "answer": "Speech remains intelligible despite mild background interference.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "rBPu6d8qwiA_523_417_533_417_b33a0de4": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What type of content is being discussed based on vocal delivery?",
+      "answer": "Technical/educational material, inferred from measured tone and terminology like 'variable de taille'.",
+      "domain": "S0A"
+    }
+  }
+]

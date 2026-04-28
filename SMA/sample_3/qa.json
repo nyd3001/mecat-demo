@@ -1,0 +1,47 @@
+[
+  {
+    "9zxI7AOapXA_132_31_142_31_a8e8b86c": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What types of audio content are present?",
+      "answer": "A woman speaking and electronic music with bell-like sounds.",
+      "domain": "SMA"
+    }
+  },
+  {
+    "9zxI7AOapXA_132_31_142_31_e0167a91": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the musical rhythm?",
+      "answer": "Steady and synthetic with periodic accents.",
+      "domain": "SMA"
+    }
+  },
+  {
+    "9zxI7AOapXA_132_31_142_31_51cf7420": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests this wasn't recorded outdoors?",
+      "answer": "Lack of ambient noise and controlled acoustic properties.",
+      "domain": "SMA"
+    }
+  },
+  {
+    "9zxI7AOapXA_132_31_142_31_65585001": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "Does the music more likely accompany a documentary or dance club?",
+      "answer": "Documentary, given its moderate energy and spoken content.",
+      "domain": "SMA"
+    }
+  },
+  {
+    "9zxI7AOapXA_132_31_142_31_9e5e3731": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the speech easily distinguishable from the music?",
+      "answer": "Yes, the voice remains clear despite musical backing.",
+      "domain": "SMA"
+    }
+  }
+]

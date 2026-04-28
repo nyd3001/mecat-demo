@@ -1,0 +1,47 @@
+[
+  {
+    "AbZZoQGZAMA_0_4800000000000004_10_48_43410e62": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of music is predominant?",
+      "answer": "Electronic soundtrack-style music",
+      "domain": "0MA"
+    }
+  },
+  {
+    "AbZZoQGZAMA_0_4800000000000004_10_48_c89969d2": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the interaction between music and sound effects?",
+      "answer": "The rhythmic electronic foundation periodically incorporates impactful explosion sounds",
+      "domain": "0MA"
+    }
+  },
+  {
+    "AbZZoQGZAMA_0_4800000000000004_10_48_8c23b932": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "Does the audio suggest an indoor or outdoor environment?",
+      "answer": "The synthetic characteristics suggest artificial creation rather than natural acoustic space",
+      "domain": "0MA"
+    }
+  },
+  {
+    "AbZZoQGZAMA_0_4800000000000004_10_48_9f1fecfd": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What production purpose might this audio serve?",
+      "answer": "Could function as intense background for action sequences or trailers",
+      "domain": "0MA"
+    }
+  },
+  {
+    "AbZZoQGZAMA_0_4800000000000004_10_48_4631f8f1": {
+      "category": "quality_assessment",
+      "difficulty": "basic",
+      "question": "Are there any notable audio imperfections?",
+      "answer": "Some distortion noticeable during loudest sections",
+      "domain": "0MA"
+    }
+  }
+]

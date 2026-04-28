@@ -1,0 +1,47 @@
+[
+  {
+    "yeYhv2d95o8_25_9167_35_9167_1ed8dc5f": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of audio is primarily heard?",
+      "answer": "Instrumental music with metallic percussive elements",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yeYhv2d95o8_25_9167_35_9167_f4323ae7": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the rhythm pattern?",
+      "answer": "Steady and consistent with electronic percussion driving the beat",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yeYhv2d95o8_25_9167_35_9167_c63b5ad5": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests this wasn't recorded live?",
+      "answer": "Precise electronic elements and absence of ambient space characteristics",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yeYhv2d95o8_25_9167_35_9167_1df434fc": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What production purpose might this audio serve?",
+      "answer": "Background music for transitional content or upbeat presentations",
+      "domain": "0MA"
+    }
+  },
+  {
+    "yeYhv2d95o8_25_9167_35_9167_cf5bfd20": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Are there any notable audio imperfections?",
+      "answer": "Minor high-frequency artifacts but overall clear presentation",
+      "domain": "0MA"
+    }
+  }
+]

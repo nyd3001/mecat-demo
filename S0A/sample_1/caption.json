@@ -1,0 +1,35 @@
+{
+  "BHmTC7gGN38_118_0665_128_067": {
+    "short": [
+      "A man exclaims in distress about facial pain from an insect impact.",
+      "A distressed male voice describes being struck in the face by a flying insect.",
+      "Agonized speech recounts sudden facial injury from perceived bug collision."
+    ],
+    "long": [
+      "A man urgently describes being struck in the face by an insect, vocalizing pain and concern about visible injuries, with persistent background interference degrading audio clarity.",
+      "Distressed male speech details facial impact trauma from a flying insect, accompanied by consistent audio distortion throughout the recording.",
+      "A panicked voice recounts experiencing sudden facial pain from an unseen collision, with degraded recording quality affecting high-frequency details."
+    ],
+    "speech": [
+      "English speech with US accent expresses acute distress about facial injury, using expletives and speculative medical descriptions.",
+      "Anguished male voice describes unexpected facial impact and potential bruising from unidentified source.",
+      "Exclamatory speech conveys shock and pain from perceived insect collision to face area."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Absence of melodic or rhythmic musical components"
+    ],
+    "sound": [
+      "Isolated speech event with intermittent broadband noise artifacts.",
+      "Vocalizations dominate with occasional transient interference bursts.",
+      "Primary sound event consists of emotional speech accompanied by irregular distortion."
+    ],
+    "environment": [
+      "Indistinct acoustic environment with compromised recording quality and electrical interference.",
+      "Unidentifiable recording space featuring persistent audio degradation.",
+      "Ambient noise profile suggests non-studio recording with technical limitations."
+    ],
+    "domain": "S0A"
+  }
+}

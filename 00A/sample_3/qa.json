@@ -1,0 +1,47 @@
+[
+  {
+    "ryU8N2CgDdI_136_27_146_27_8375d374": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What primary sound is heard?",
+      "answer": "A chainsaw running continuously",
+      "domain": "00A"
+    }
+  },
+  {
+    "ryU8N2CgDdI_136_27_146_27_0fdceb2f": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the audio clear or distorted?",
+      "answer": "Distorted with significant background noise",
+      "domain": "00A"
+    }
+  },
+  {
+    "ryU8N2CgDdI_136_27_146_27_8bd73e9f": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What environment suggests the noise characteristics?",
+      "answer": "Outdoor industrial area with machinery",
+      "domain": "00A"
+    }
+  },
+  {
+    "ryU8N2CgDdI_136_27_146_27_c20dd7e7": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What indicates this isn't a studio recording?",
+      "answer": "Prominent uncontrolled background noise and acoustic interference",
+      "domain": "00A"
+    }
+  },
+  {
+    "ryU8N2CgDdI_136_27_146_27_73fa6fbb": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Are multiple mechanical sounds present?",
+      "answer": "Yes, a dominant chainsaw with occasional vehicle noise",
+      "domain": "00A"
+    }
+  }
+]

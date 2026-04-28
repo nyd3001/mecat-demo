@@ -1,0 +1,47 @@
+[
+  {
+    "xmUCIOKm01s_157_41199999999998_167_412_786170a5": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What musical instrument is dominant?",
+      "answer": "Electric guitar",
+      "domain": "0MA"
+    }
+  },
+  {
+    "xmUCIOKm01s_157_41199999999998_167_412_5ad1b868": {
+      "category": "environment_reasoning",
+      "difficulty": "intermediate",
+      "question": "Does this sound like a live audience or artificial applause?",
+      "answer": "Live audience applause based on temporal distribution",
+      "domain": "0MA"
+    }
+  },
+  {
+    "xmUCIOKm01s_157_41199999999998_167_412_322d4990": {
+      "category": "quality_assessment",
+      "difficulty": "advanced",
+      "question": "Is there evidence of audio processing artifacts?",
+      "answer": "Chorus effect present, no notable distortion",
+      "domain": "0MA"
+    }
+  },
+  {
+    "xmUCIOKm01s_157_41199999999998_167_412_174757e7": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "Could this audio serve as background music for commercials?",
+      "answer": "Yes, due to neutral tempo and sustained chords",
+      "domain": "0MA"
+    }
+  },
+  {
+    "xmUCIOKm01s_157_41199999999998_167_412_8c7b58d8": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Are vocals present in this recording?",
+      "answer": "No vocal elements detected",
+      "domain": "0MA"
+    }
+  }
+]

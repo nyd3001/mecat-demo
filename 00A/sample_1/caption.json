@@ -1,0 +1,35 @@
+{
+  "LOdzdQgttiI_270_233_280_233": {
+    "short": [
+      "Wind noise with intermittent vehicle sounds in low-quality recording.",
+      "Microphone wind interference and distant traffic in degraded audio.",
+      "Atmospheric noise with occasional road activity captured through poor equipment."
+    ],
+    "long": [
+      "Persistent microphone wind distortion accompanies sporadic vehicle noises, with abrupt audio transitions suggesting recording instability.",
+      "Continuous wind interference alternates with passing traffic sounds in a recording exhibiting technical flaws.",
+      "Unstable audio capture containing gusts of wind and brief vehicle movements with noticeable signal disruptions."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of detectable vocal elements"
+    ],
+    "music": [
+      "None",
+      "Musical elements appear absent",
+      "No identifiable music components"
+    ],
+    "sound": [
+      "Microphone wind distortion and vehicular activity without clear spatial relationships.",
+      "Atmospheric interference dominates alongside transient road sounds.",
+      "Wind noise overwhelms recording with occasional traffic presence."
+    ],
+    "environment": [
+      "Outdoor recording with persistent technical interference and unstable capture.",
+      "Exterior environment captured through compromised recording equipment.",
+      "Unrefined outdoor audio with dominant wind and traffic artifacts."
+    ],
+    "domain": "00A"
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "eO5eY0YLS3w_58_9241665_68_9242_ca9bb893": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is there speech present in this audio?",
+      "answer": "Yes, continuous technical narration by one speaker.",
+      "domain": "S00"
+    }
+  },
+  {
+    "eO5eY0YLS3w_58_9241665_68_9242_446005aa": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "What type of terminology dominates the speech?",
+      "answer": "Specialized terms related to spreadsheet functions like subtotal and autosum.",
+      "domain": "S00"
+    }
+  },
+  {
+    "eO5eY0YLS3w_58_9241665_68_9242_1f79654b": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "Does the recording environment remain consistent?",
+      "answer": "Mostly stable with brief moments of increased reverberation.",
+      "domain": "S00"
+    }
+  },
+  {
+    "eO5eY0YLS3w_58_9241665_68_9242_b96790ad": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What is the most likely purpose of this recording?",
+      "answer": "Educational content explaining software functionality.",
+      "domain": "S00"
+    }
+  },
+  {
+    "eO5eY0YLS3w_58_9241665_68_9242_9341a0cb": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the speech easily understandable?",
+      "answer": "Yes, clear enunciation with minimal interference.",
+      "domain": "S00"
+    }
+  }
+]

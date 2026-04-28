@@ -1,0 +1,47 @@
+[
+  {
+    "4JPvUGVlygE_1_0499999999999998_11_05_bfa60084": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of artificial sounds are present?",
+      "answer": "Electronic beeps and alert tones",
+      "domain": "00A"
+    }
+  },
+  {
+    "4JPvUGVlygE_1_0499999999999998_11_05_ac665c9e": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the relationship between the beeps and vehicle sound?",
+      "answer": "The beeps occur before and after a brief engine noise",
+      "domain": "00A"
+    }
+  },
+  {
+    "4JPvUGVlygE_1_0499999999999998_11_05_5a17156a": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What acoustic features suggest the recording environment?",
+      "answer": "Moderate echo and persistent electrical interference indicate an indoor technical space",
+      "domain": "00A"
+    }
+  },
+  {
+    "4JPvUGVlygE_1_0499999999999998_11_05_fd511b71": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What technical limitations does the audio quality suggest about the recording device?",
+      "answer": "High noise floor and distortion imply low-quality microphone or compressed audio format",
+      "domain": "00A"
+    }
+  },
+  {
+    "4JPvUGVlygE_1_0499999999999998_11_05_214d79f6": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the background noise constant or intermittent?",
+      "answer": "Constant background interference persists throughout",
+      "domain": "00A"
+    }
+  }
+]

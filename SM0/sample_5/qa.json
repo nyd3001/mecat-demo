@@ -1,0 +1,47 @@
+[
+  {
+    "2gaHuQsR7fg_94_2868_104_287_34cbdcb1": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What primary sound types are present?",
+      "answer": "Male and female speech with electronic music",
+      "domain": "SM0"
+    }
+  },
+  {
+    "2gaHuQsR7fg_94_2868_104_287_518eac14": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the musical texture?",
+      "answer": "Layered synthetic melodies with rhythmic percussion",
+      "domain": "SM0"
+    }
+  },
+  {
+    "2gaHuQsR7fg_94_2868_104_287_83825f8e": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests the recording environment?",
+      "answer": "Consistent vocal clarity with subtle electrical hum",
+      "domain": "SM0"
+    }
+  },
+  {
+    "2gaHuQsR7fg_94_2868_104_287_bb35abe8": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What context does the audio content suggest?",
+      "answer": "Technical product evaluation session",
+      "domain": "SM0"
+    }
+  },
+  {
+    "2gaHuQsR7fg_94_2868_104_287_b59d5cf1": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Are there notable audio imperfections?",
+      "answer": "Minor background interference throughout",
+      "domain": "SM0"
+    }
+  }
+]

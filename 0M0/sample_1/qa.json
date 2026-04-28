@@ -1,0 +1,47 @@
+[
+  {
+    "3MASzQQspsw_124_75_134_75_b73b1481": {
+      "category": "sound_characteristics",
+      "difficulty": "basic",
+      "question": "What type of music is this?",
+      "answer": "Electronic music with dark melodic elements.",
+      "domain": "0M0"
+    }
+  },
+  {
+    "3MASzQQspsw_124_75_134_75_775d1854": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Are there any notable audio quality issues?",
+      "answer": "Yes, slight background noise and tonal imbalance.",
+      "domain": "0M0"
+    }
+  },
+  {
+    "3MASzQQspsw_124_75_134_75_7629b314": {
+      "category": "sound_characteristics",
+      "difficulty": "advanced",
+      "question": "How would you describe the vocal elements?",
+      "answer": "Non-linguistic distorted textures and vocal fry effects.",
+      "domain": "0M0"
+    }
+  },
+  {
+    "3MASzQQspsw_124_75_134_75_5465e9ab": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What production environment does this suggest?",
+      "answer": "Digital audio workstation production with synthetic sound design.",
+      "domain": "0M0"
+    }
+  },
+  {
+    "3MASzQQspsw_124_75_134_75_0cbcd6bb": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is this recording predominantly instrumental?",
+      "answer": "Yes, entirely instrumental with processed vocal effects.",
+      "domain": "0M0"
+    }
+  }
+]

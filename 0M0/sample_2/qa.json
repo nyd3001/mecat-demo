@@ -1,0 +1,47 @@
+[
+  {
+    "ZTkWQm3wthQ_143_51999999999998_153_52_dfb3af1d": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of music is this?",
+      "answer": "Electronic dance music",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ZTkWQm3wthQ_143_51999999999998_153_52_1ea0383b": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the rhythm?",
+      "answer": "Steady and mechanical with fast repetition",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ZTkWQm3wthQ_143_51999999999998_153_52_81bef0ad": {
+      "category": "quality_assessment",
+      "difficulty": "advanced",
+      "question": "Does the audio have any noticeable technical issues?",
+      "answer": "Yes, significant distortion and compression artifacts",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ZTkWQm3wthQ_143_51999999999998_153_52_8fbf4d97": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What production environment does this suggest?",
+      "answer": "Digital audio workstation with synthetic sound sources",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ZTkWQm3wthQ_143_51999999999998_153_52_31c53c49": {
+      "category": "application_context",
+      "difficulty": "intermediate",
+      "question": "Would this music be suitable for background in promotional content?",
+      "answer": "Yes, its corporate-style energy matches commercial use",
+      "domain": "0M0"
+    }
+  }
+]

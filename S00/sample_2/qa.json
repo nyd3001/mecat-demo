@@ -1,0 +1,47 @@
+[
+  {
+    "jmpt8FtkXCA_0_6890000000000001_10_689_467fd03b": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of audio content is predominant?",
+      "answer": "Academic lecture/discussion",
+      "domain": "S00"
+    }
+  },
+  {
+    "jmpt8FtkXCA_0_6890000000000001_10_689_c997a7f3": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the speaker's vocal characteristics?",
+      "answer": "Clear male voice with measured pacing",
+      "domain": "S00"
+    }
+  },
+  {
+    "jmpt8FtkXCA_0_6890000000000001_10_689_d01993b5": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What environmental sounds are noticeable?",
+      "answer": "Consistent low electronic hum",
+      "domain": "S00"
+    }
+  },
+  {
+    "jmpt8FtkXCA_0_6890000000000001_10_689_33533f7c": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What educational context does this audio suggest?",
+      "answer": "Psychology or game design lecture",
+      "domain": "S00"
+    }
+  },
+  {
+    "jmpt8FtkXCA_0_6890000000000001_10_689_4f4f9b40": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Are there any notable audio artifacts?",
+      "answer": "Mild background interference throughout",
+      "domain": "S00"
+    }
+  }
+]

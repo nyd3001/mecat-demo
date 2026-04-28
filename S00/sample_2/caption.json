@@ -1,0 +1,35 @@
+{
+  "jmpt8FtkXCA_0_6890000000000001_10_689": {
+    "short": [
+      "Male speaker discussing educational motivation theories with occasional interruptions.",
+      "Academic lecture on game psychology with multiple participants.",
+      "Conversation about intrinsic motivation in learning environments."
+    ],
+    "long": [
+      "A male presenter analyzes motivational psychology concepts with brief interjections from another speaker, accompanied by moderate background noise.",
+      "Educational discussion about game design principles featuring two voices and audible interference.",
+      "Technical conversation on player motivation theories with intermittent audio artifacts."
+    ],
+    "speech": [
+      "Academic lecture-style dialogue containing terms like 'self-determination theory' and 'intrinsic motivation'.",
+      "Scholarly discussion referencing psychological frameworks in education.",
+      "Detailed analysis of motivational factors in instructional design."
+    ],
+    "music": [
+      "None",
+      "No discernible musical elements present.",
+      "Musical components appear absent."
+    ],
+    "sound": [
+      "None",
+      "No distinctive sound events detected.",
+      "Background noise without identifiable sound occurrences."
+    ],
+    "environment": [
+      "Indoor educational setting with consistent low-frequency interference.",
+      "Classroom-like acoustic environment with electronic hum.",
+      "Lecture hall atmosphere featuring mild audio distortion."
+    ],
+    "domain": "S00"
+  }
+}

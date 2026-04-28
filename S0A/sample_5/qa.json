@@ -1,0 +1,47 @@
+[
+  {
+    "PXfzjhCtehM_132_14600000000002_142_146_65fd1f32": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of human activity is primarily heard?",
+      "answer": "A male voice explaining technical concepts with occasional keyboard typing.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "PXfzjhCtehM_132_14600000000002_142_146_bbac8c1d": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the speech rhythm and pacing?",
+      "answer": "Deliberate and instructional pacing typical of technical explanations.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "PXfzjhCtehM_132_14600000000002_142_146_6e31dd9e": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests this was not recorded in a professional studio?",
+      "answer": "Persistent background static and inconsistent audio clarity.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "PXfzjhCtehM_132_14600000000002_142_146_48a4856e": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What type of content is being demonstrated based on auditory clues?",
+      "answer": "Computer programming methods involving graphical elements.",
+      "domain": "S0A"
+    }
+  },
+  {
+    "PXfzjhCtehM_132_14600000000002_142_146_4f833848": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is any musical instrumentation present?",
+      "answer": "No musical elements are detectable in the recording.",
+      "domain": "S0A"
+    }
+  }
+]

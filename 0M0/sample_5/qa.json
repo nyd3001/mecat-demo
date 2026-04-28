@@ -1,0 +1,47 @@
+[
+  {
+    "ikHFRWfiUvs_19_4244_29_4244_0f3047df": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of music is being played?",
+      "answer": "Heavy guitar-based music with drums",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ikHFRWfiUvs_19_4244_29_4244_67a14a68": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the guitar tone?",
+      "answer": "Distorted and aggressive electric guitar sound",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ikHFRWfiUvs_19_4244_29_4244_de840f15": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests the recording wasn't made in professional studio conditions?",
+      "answer": "Persistent background noise and audio artifacts",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ikHFRWfiUvs_19_4244_29_4244_e25114fb": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the audio clarity good throughout?",
+      "answer": "No, there's noticeable interference affecting clarity",
+      "domain": "0M0"
+    }
+  },
+  {
+    "ikHFRWfiUvs_19_4244_29_4244_bdf9170f": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "Does this sound more like a live performance or studio recording?",
+      "answer": "Studio recording attempt with technical limitations",
+      "domain": "0M0"
+    }
+  }
+]

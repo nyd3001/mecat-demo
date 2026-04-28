@@ -1,0 +1,47 @@
+[
+  {
+    "98vxNZfZ8Ug_114_98689999999999_124_987_ed7cf105": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What types of sounds are most prominent?",
+      "answer": "Male Portuguese speech and vehicle engine sounds",
+      "domain": "S0A"
+    }
+  },
+  {
+    "98vxNZfZ8Ug_114_98689999999999_124_987_c355e101": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the background interference?",
+      "answer": "Moderate distortion with occasional abrupt audio cuts",
+      "domain": "S0A"
+    }
+  },
+  {
+    "98vxNZfZ8Ug_114_98689999999999_124_987_af7d9dd5": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What environment does the acoustic profile suggest?",
+      "answer": "Urban outdoor setting near vehicular traffic",
+      "domain": "S0A"
+    }
+  },
+  {
+    "98vxNZfZ8Ug_114_98689999999999_124_987_dad65f87": {
+      "category": "application_context",
+      "difficulty": "complex",
+      "question": "What technological subject is being discussed?",
+      "answer": "Geospatial data collection infrastructure",
+      "domain": "S0A"
+    }
+  },
+  {
+    "98vxNZfZ8Ug_114_98689999999999_124_987_6d91c4f7": {
+      "category": "quality_assessment",
+      "difficulty": "basic",
+      "question": "Is the recording clear?",
+      "answer": "No, there's noticeable distortion and background noise",
+      "domain": "S0A"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "bmMgPcTYRII_33_185_43_185": {
+    "short": [
+      "Upbeat instrumental guitar piece with rhythmic drum backing.",
+      "Energetic guitar-driven composition accompanied by drums.",
+      "Lively acoustic performance featuring guitar and percussion."
+    ],
+    "long": [
+      "An instrumental track combining rhythmic acoustic guitar patterns with steady drum accompaniment exhibits an upbeat character, though the recording contains noticeable audio compression artifacts.",
+      "A cheerful guitar-and-drum instrumental with detectable sound quality limitations.",
+      "Bright melodic guitar work supported by simple percussion, marred by low-fidelity recording characteristics."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of verbal communication"
+    ],
+    "music": [
+      "Acoustic guitar-driven composition with steady percussion foundation, conveying positive emotional qualities through major tonalities and moderate tempo.",
+      "Rhythmic folk-inspired instrumental pairing nylon-string guitar with basic drum kit.",
+      "Upbeat melodic arrangement featuring prominent guitar work and percussive elements."
+    ],
+    "sound": [
+      "None",
+      "No distinct environmental or non-musical sounds",
+      "Absence of identifiable sound events beyond musical components"
+    ],
+    "environment": [
+      "Studio recording environment with digital compression artifacts present.",
+      "Controlled acoustic space showing signs of audio encoding limitations.",
+      "Neutral recording setting with noticeable signal processing degradation."
+    ],
+    "domain": "0M0"
+  }
+}

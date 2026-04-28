@@ -1,0 +1,35 @@
+{
+  "4JPvUGVlygE_1_0499999999999998_11_05": {
+    "short": [
+      "Electronic beeping sounds with vehicle engine noise in poor quality recording.",
+      "A sequence of electronic tones accompanied by mechanical rumble amidst audio distortion.",
+      "Beeping alerts and vehicular sounds with significant background interference."
+    ],
+    "long": [
+      "A series of electronic beeps precedes repetitive alert tones, accompanied by brief vehicle engine sounds. The audio exhibits substantial background noise and distortion, with moderate reverberation suggesting indoor recording conditions.",
+      "Multiple electronic warning tones blend with transient mechanical noise in a low-fidelity recording environment showing echo effects.",
+      "Intermittent beep sequences and a vehicle-related sound occur within a noisy, degraded audio signal demonstrating mild reverberation."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of verbal communication"
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Absence of melodic or rhythmic content"
+    ],
+    "sound": [
+      "Electronic alert tones (beeps) followed by repetitive beeping pattern. Transient vehicle engine sound at 2-4 second mark.",
+      "Warning-style beep sequence preceding mechanical noise burst, then continued electronic tones.",
+      "Initial singular beep develops into rhythmic electronic alerts with brief automotive sound."
+    ],
+    "environment": [
+      "Moderate reverberation and persistent background interference suggest indoor technical environment.",
+      "Acoustic characteristics indicate enclosed space with electronic equipment noise.",
+      "Background interference profile consistent with industrial or vehicular facility ambiance."
+    ],
+    "domain": "00A"
+  }
+}

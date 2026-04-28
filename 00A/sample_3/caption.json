@@ -1,0 +1,35 @@
+{
+  "ryU8N2CgDdI_136_27_146_27": {
+    "short": [
+      "A chainsaw operates with intermittent vehicle noise in a noisy environment.",
+      "Chainsaw running amidst background vehicle sounds and audio interference.",
+      "Sustained chainsaw activity with occasional distant traffic noise."
+    ],
+    "long": [
+      "A chainsaw runs continuously with periodic vehicle sounds, accompanied by significant background noise and low audio clarity throughout.",
+      "Persistent chainsaw operation interleaved with brief traffic noises, degraded by substantial acoustic interference.",
+      "Continuous chainsaw activity with sporadic mechanical rumble, recorded with noticeable audio distortion."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of detectable human speech"
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Musical components appear absent"
+    ],
+    "sound": [
+      "Machinery operation with transportation noise",
+      "Industrial tool sounds interspersed with vehicular activity",
+      "Mechanical equipment noise accompanied by brief traffic sounds"
+    ],
+    "environment": [
+      "Outdoor environment with persistent industrial noise interference",
+      "Exterior recording featuring heavy machinery ambience",
+      "Open-air setting dominated by mechanical operations"
+    ],
+    "domain": "00A"
+  }
+}

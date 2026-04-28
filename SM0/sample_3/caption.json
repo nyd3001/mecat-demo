@@ -1,0 +1,35 @@
+{
+  "3mu1laxAAds_30_86915_40_8692": {
+    "short": [
+      "Female Portuguese narration with upbeat instrumental music and background interference.",
+      "A woman speaks energetically in Portuguese accompanied by lively instrumental music and subtle noise.",
+      "Portuguese speech delivery with cheerful musical backing and faint audio imperfections."
+    ],
+    "long": [
+      "A female speaker narrates in Portuguese with high vocal clarity, accompanied by mid-tempo instrumental music featuring synthesizer and guitar elements. Persistent low-frequency background interference reduces overall audio fidelity.",
+      "Clear Portuguese narration by a woman overlaps with rhythmic instrumental music containing electronic elements, marred by consistent background hum.",
+      "Upbeat musical accompaniment with synthesizer tones underlies a Portuguese-speaking woman's animated vocal delivery, accompanied by minor audio artifacts."
+    ],
+    "speech": [
+      "Animated Portuguese narration by single female speaker discussing unexpected visitor arrivals.",
+      "Energetic female voice speaking Portuguese about sudden appearances.",
+      "Expressive Portuguese monologue delivered with vocal intensity."
+    ],
+    "music": [
+      "Mid-tempo instrumental composition with electronic elements and rhythmic drive.",
+      "Pulsating synthetic textures supporting steady rhythmic foundation.",
+      "Electronically-infused backing track maintaining moderate tempo."
+    ],
+    "sound": [
+      "None",
+      "No distinct sound events beyond speech/music blend.",
+      "Absence of isolated sound effects or environmental signatures."
+    ],
+    "environment": [
+      "Indoor recording with persistent low-frequency interference.",
+      "Controlled acoustic space affected by equipment hum.",
+      "Studio-like environment with electrical noise artifacts."
+    ],
+    "domain": "SM0"
+  }
+}

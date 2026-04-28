@@ -1,0 +1,35 @@
+{
+  "xmUCIOKm01s_157_41199999999998_167_412": {
+    "short": [
+      "Electric guitar with chorus effect accompanied by intermittent applause.",
+      "Relaxed guitar performance with audience reactions.",
+      "Sustained electric guitar chords and crowd clapping."
+    ],
+    "long": [
+      "A slow-tempo electric guitar piece using chorus effects transitions to audience applause, with noticeable studio reverb.",
+      "Laid-back guitar solo with applause segments and ambient reverberation.",
+      "Chorus-infused guitar performance followed by crowd response in resonant space."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of verbal communication"
+    ],
+    "music": [
+      "Sustained electric guitar chords with chorus effect (BPM 61)",
+      "Slow-paced guitar performance using modulation effects",
+      "Leisurely tempo instrumental with chorus processing"
+    ],
+    "sound": [
+      "Audience applause segments between 6-10 seconds",
+      "Crowd clapping instances in second half",
+      "Intermittent handclap reactions"
+    ],
+    "environment": [
+      "Studio recording with 0.538s RT60 reverberation",
+      "Controlled acoustic space with moderate echo",
+      "Purpose-built recording environment with reflections"
+    ],
+    "domain": "0MA"
+  }
+}

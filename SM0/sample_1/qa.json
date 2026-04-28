@@ -1,0 +1,47 @@
+[
+  {
+    "9DMrXbDG9sg_21_50985_31_5099_34f33b3c": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Are human voices present?",
+      "answer": "Yes, two female speakers conversing.",
+      "domain": "SM0"
+    }
+  },
+  {
+    "9DMrXbDG9sg_21_50985_31_5099_b3bf1870": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Does the music dominate or support the voices?",
+      "answer": "Music remains secondary, supporting the dialogue.",
+      "domain": "SM0"
+    }
+  },
+  {
+    "9DMrXbDG9sg_21_50985_31_5099_c9bc303d": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "Is this a studio recording?",
+      "answer": "No, subtle echo suggests a medium-sized room.",
+      "domain": "SM0"
+    }
+  },
+  {
+    "9DMrXbDG9sg_21_50985_31_5099_2ee4cceb": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "Is this audio intended for children?",
+      "answer": "Likely, given high-pitched excited speech and game context.",
+      "domain": "SM0"
+    }
+  },
+  {
+    "9DMrXbDG9sg_21_50985_31_5099_3f13d097": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is the audio professionally mixed?",
+      "answer": "No, inconsistent levels between voices and music.",
+      "domain": "SM0"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "bmMgPcTYRII_33_185_43_185_67757be1": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of instruments are predominant?",
+      "answer": "Acoustic guitar and drums",
+      "domain": "0M0"
+    }
+  },
+  {
+    "bmMgPcTYRII_33_185_43_185_0b316ffd": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the recording quality?",
+      "answer": "Contains noticeable compression artifacts with flat frequency response",
+      "domain": "0M0"
+    }
+  },
+  {
+    "bmMgPcTYRII_33_185_43_185_512d10f0": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What environment suggests the recording technique?",
+      "answer": "Controlled studio environment with close microphone placement",
+      "domain": "0M0"
+    }
+  },
+  {
+    "bmMgPcTYRII_33_185_43_185_27da521d": {
+      "category": "quality_assessment",
+      "difficulty": "complex",
+      "question": "What technical limitations affect listener experience?",
+      "answer": "Excessive audio compression reduces dynamic range and timbral richness",
+      "domain": "0M0"
+    }
+  },
+  {
+    "bmMgPcTYRII_33_185_43_185_71e9adbe": {
+      "category": "environment_reasoning",
+      "difficulty": "intermediate",
+      "question": "Is there evidence of natural room acoustics?",
+      "answer": "No significant room reverberation or natural echo characteristics",
+      "domain": "0M0"
+    }
+  }
+]

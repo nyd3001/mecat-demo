@@ -1,0 +1,47 @@
+[
+  {
+    "4lwPtY44o4o_89_7615_99_7615_80416e97": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What language is being spoken?",
+      "answer": "Portuguese",
+      "domain": "SMA"
+    }
+  },
+  {
+    "4lwPtY44o4o_89_7615_99_7615_e0dae480": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How does the speaker's emotional tone change?",
+      "answer": "Transitions from neutral to cheerful",
+      "domain": "SMA"
+    }
+  },
+  {
+    "4lwPtY44o4o_89_7615_99_7615_4e3abae6": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What recording environment characteristics are evident?",
+      "answer": "Controlled studio setting with clean vocal capture",
+      "domain": "SMA"
+    }
+  },
+  {
+    "4lwPtY44o4o_89_7615_99_7615_e029247f": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What type of content is most likely being presented?",
+      "answer": "Instructional demonstration based on vocal tone and pacing",
+      "domain": "SMA"
+    }
+  },
+  {
+    "4lwPtY44o4o_89_7615_99_7615_d21a163b": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Are there any notable audio artifacts?",
+      "answer": "Occasional clicks but generally clear recording",
+      "domain": "SMA"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "4lwPtY44o4o_89_7615_99_7615": {
+    "short": [
+      "Female narration in Portuguese with upbeat instrumental accompaniment.",
+      "Portuguese-speaking woman with background pop music.",
+      "A woman's voice explains something cheerfully over rhythmic music."
+    ],
+    "long": [
+      "A female speaker narrates in Portuguese with evolving emotional tone, accompanied by percussive clicks and background pop instrumentation featuring piano and drums in a studio-quality recording.",
+      "Portuguese-language explanation delivered with increasing cheerfulness, supported by rhythmic percussion and occasional clicks in a clean acoustic environment.",
+      "Studio-recorded female voice speaking Portuguese transitions from neutral to happy delivery with musical background elements."
+    ],
+    "speech": [
+      "Single Portuguese-speaking female demonstrating emotional progression from neutral to cheerful.",
+      "Monolingual Portuguese narration showing gradual positive affect.",
+      "Woman's voice becomes increasingly animated during Portuguese-language explanation."
+    ],
+    "music": [
+      "Pop-style instrumental backing with piano and drum elements at 128 BPM.",
+      "Rhythmic background music featuring prominent percussion and harmonic keyboard elements.",
+      "Moderate-tempo instrumental accompaniment with strong beat emphasis."
+    ],
+    "sound": [
+      "Intermittent percussive clicks overlay vocal content.",
+      "Occasional sharp tapping sounds during speech segments.",
+      "Rhythmic mechanical noises punctuate narration."
+    ],
+    "environment": [
+      "Studio-quality recording with minimal background interference.",
+      "Controlled acoustic environment with clean vocal capture.",
+      "Professional-grade recording space exhibiting low noise floor."
+    ],
+    "domain": "SMA"
+  }
+}

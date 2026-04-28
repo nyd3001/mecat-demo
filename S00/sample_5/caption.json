@@ -1,0 +1,35 @@
+{
+  "6O2RbL88ZF4_265_0555_275_055": {
+    "short": [
+      "A man describing basement features with persistent background interference.",
+      "Male narrator discussing architectural details amid environmental noise.",
+      "Voice explaining pipe installation with distant mechanical sounds."
+    ],
+    "long": [
+      "A male speaker describes mid-20th century basement construction details, with consistent vocal clarity despite background interference resembling distant machinery.",
+      "Narration about 1950s pipework projects dominates the audio, accompanied by low-frequency ambient disturbances.",
+      "Detailed explanation of basement infrastructure persists through intermittent background noise."
+    ],
+    "speech": [
+      "Technical narration about historical plumbing installation methods.",
+      "Monologue regarding post-war construction techniques.",
+      "Descriptive explanation of pipe system retrofitting."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Absence of melodic content"
+    ],
+    "sound": [
+      "None",
+      "No distinct sound events isolated",
+      "Background noise lacks discrete identifiable sounds"
+    ],
+    "environment": [
+      "Indoor space with moderate reverberation and low-frequency disturbances.",
+      "Enclosed architectural environment with persistent hum.",
+      "Utility space ambiance with electrical interference."
+    ],
+    "domain": "S00"
+  }
+}

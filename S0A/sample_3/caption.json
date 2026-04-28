@@ -1,0 +1,35 @@
+{
+  "rBPu6d8qwiA_523_417_533_417": {
+    "short": [
+      "A French male voice explaining technical steps with intermittent clicking sounds.",
+      "Technical explanation in French with occasional background clicks.",
+      "Male narrator discussing procedural details in French, accompanied by subtle tapping noises."
+    ],
+    "long": [
+      "A French-speaking male voice systematically describes a technical process, with persistent mouse click sounds suggesting computer use. The audio maintains intelligibility despite mild background interference.",
+      "Clear French narration of technical content by a male speaker, accompanied by periodic interface interaction noises.",
+      "Methodical French-language explanation with consistent click sounds, recorded in an environment with minimal acoustic treatment."
+    ],
+    "speech": [
+      "Technical French narration: 'définir une expression... variable de taille' with didactic tone.",
+      "Procedural French speech containing terms like 'expression' and 'variable de taille'.",
+      "Educational French dialogue focused on technical definitions and parameters."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Musical content appears absent"
+    ],
+    "sound": [
+      "Consistent mouse click sounds throughout first half, minimal environmental noise.",
+      "Interface interaction noises prominent in foreground, sparse background activity.",
+      "Distinct click sounds suggesting keyboard/mouse usage, no extraneous events."
+    ],
+    "environment": [
+      "Dry acoustic environment with moderate reverberation (RT60 0.1-3s), likely small untreated space.",
+      "Neutral recording space exhibiting variable reverberation characteristics.",
+      "Acoustic profile suggests functional recording rather than professional studio."
+    ],
+    "domain": "S0A"
+  }
+}

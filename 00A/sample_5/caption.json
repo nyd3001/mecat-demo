@@ -1,0 +1,35 @@
+{
+  "DpDKW7sZO00_38_88335_48_8834": {
+    "short": [
+      "Bird chirps and dog barks with persistent background noise.",
+      "Avian calls accompanied by canine vocalizations amidst audio interference.",
+      "Animal sounds including birds and barking with noticeable distortion."
+    ],
+    "long": [
+      "An outdoor recording contains intermittent bird vocalizations and distant dog barking, with significant background noise artifacts suggesting aggressive noise reduction processing.",
+      "Natural environment audio featuring avian calls and canine sounds marred by audible filtering artifacts.",
+      "Bird chirps intercut with barking noises in a recording showing signs of heavy noise suppression."
+    ],
+    "speech": [
+      "None",
+      "No discernible human speech content",
+      "Absence of verbal communication detected"
+    ],
+    "music": [
+      "None",
+      "No musical elements present",
+      "Musical components appear absent"
+    ],
+    "sound": [
+      "Animal vocalizations including rhythmic bird calls and isolated canine barking instances",
+      "Biological sounds featuring avian chirps and sporadic dog barks",
+      "Wildlife audio with repeating bird sounds and occasional barking"
+    ],
+    "environment": [
+      "Outdoor acoustic environment with broadband noise interference and digital processing artifacts",
+      "Natural soundscape containing technical noise from audio filtering",
+      "Exterior recording showing evidence of aggressive noise reduction techniques"
+    ],
+    "domain": "00A"
+  }
+}

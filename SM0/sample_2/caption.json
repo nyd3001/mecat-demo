@@ -1,0 +1,35 @@
+{
+  "irx1fuH6drU_147_953_157_953": {
+    "short": [
+      "A male voice discusses medicinal plant properties over upbeat instrumental music.",
+      "Upbeat guitar-driven music accompanies a lecture on herbal antiseptics.",
+      "A narrated explanation of plant oils with cheerful background instrumentation."
+    ],
+    "long": [
+      "A male speaker describes the antiseptic applications of plant oils, accompanied by rhythmic instrumental music featuring guitar and percussion with a coffee shop ambiance. Audio quality shows moderate background interference.",
+      "Clear vocal explanation of botanical remedies layered over bright, rhythmic music with occasional mixing artifacts.",
+      "Educational narration about medicinal oils paired with upbeat instrumental arrangement containing guitar and drums."
+    ],
+    "speech": [
+      "Educational narration in American English describing plant-derived antiseptics and their topical applications.",
+      "Technical explanation of herbal oil uses for wound treatment.",
+      "Clinical description of botanical antiseptic properties and usage methods."
+    ],
+    "music": [
+      "Rhythmic instrumental piece featuring guitar melodies and percussion with coffee shop ambiance.",
+      "Upbeat background music combining guitar lines and drum patterns.",
+      "Cheerful instrumental arrangement with prominent bass and snare elements."
+    ],
+    "sound": [
+      "None",
+      "No distinctive sound events beyond voice and music elements.",
+      "No isolated environmental sounds or notable audio events detected."
+    ],
+    "environment": [
+      "Studio-like recording with mild background interference and balanced voice/music mix.",
+      "Clean vocal capture with musical accompaniment showing minor mixing artifacts.",
+      "Clear narration over instrumental backing with occasional low-frequency noise."
+    ],
+    "domain": "SM0"
+  }
+}

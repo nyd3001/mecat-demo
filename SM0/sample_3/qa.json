@@ -1,0 +1,47 @@
+[
+  {
+    "3mu1laxAAds_30_86915_40_8692_2ed76c09": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of audio is this?",
+      "answer": "A woman speaking with musical background",
+      "domain": "SM0"
+    }
+  },
+  {
+    "3mu1laxAAds_30_86915_40_8692_924cb15f": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the music's rhythmic quality?",
+      "answer": "Steady mid-tempo with electronic pulsations",
+      "domain": "SM0"
+    }
+  },
+  {
+    "3mu1laxAAds_30_86915_40_8692_6c41c653": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests the recording environment?",
+      "answer": "Consistent electrical hum indicates indoor studio space",
+      "domain": "SM0"
+    }
+  },
+  {
+    "3mu1laxAAds_30_86915_40_8692_331fe926": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What vocal technique is predominant?",
+      "answer": "Expressive narration with emotional inflection",
+      "domain": "SM0"
+    }
+  },
+  {
+    "3mu1laxAAds_30_86915_40_8692_5e0f5e9e": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "What limits audio clarity?",
+      "answer": "Background interference during musical passages",
+      "domain": "SM0"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "tFg4IwL09Rk_111_64000000000001_121_64": {
+    "short": [
+      "Electronic music with water splashing and brief speech amid static interference",
+      "Dark electronic instrumental with aquatic sounds and momentary vocal utterance",
+      "Water splashing noises under brooding synth music featuring short spoken phrase"
+    ],
+    "long": [
+      "A dark electronic instrumental track with water splashing sounds and a male voice briefly speaking, accompanied by persistent background static and mid-frequency noise artifacts.",
+      "Moody electronic composition blending synthesized tones with environmental water sounds and fragmented speech, degraded by audio interference",
+      "Sustained static underlies a brief male utterance and aquatic noises within a dramatic electronic musical arrangement"
+    ],
+    "speech": [
+      "Male voice briefly uttering 'We over' with cheerful vocal characteristics",
+      "Short spoken phrase 'We over' delivered in an upbeat tone",
+      "Fragmentary speech segment showing positive vocal affect"
+    ],
+    "music": [
+      "Dark electronic music featuring synthesizer and guitar elements with moderate tempo",
+      "Brooding instrumental track combining synthetic textures and guitar tones",
+      "Dramatic electronic composition with industrial-inspired rhythmic patterns"
+    ],
+    "sound": [
+      "Prominent water splashing sounds with intermittent static bursts",
+      "Aquatic environment noises dominated by liquid movement",
+      "Liquid splashing effects accompanied by electrical interference"
+    ],
+    "environment": [
+      "Low-quality audio environment with background static and mid-range distortion",
+      "Noisy recording space exhibiting persistent electrical interference",
+      "Degraded acoustic conditions with broadband static artifacts"
+    ],
+    "domain": "SMA"
+  }
+}

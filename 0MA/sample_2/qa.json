@@ -1,0 +1,47 @@
+[
+  {
+    "ob0SRZsUgpY_2_1799999999999997_12_18_a5f1a5b9": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of background sound persists throughout the recording?",
+      "answer": "A constant electrical interference with occasional popping noises.",
+      "domain": "0MA"
+    }
+  },
+  {
+    "ob0SRZsUgpY_2_1799999999999997_12_18_5534f956": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "How would you characterize the overall audio clarity?",
+      "answer": "Severely degraded with muffled frequencies and distortion.",
+      "domain": "0MA"
+    }
+  },
+  {
+    "ob0SRZsUgpY_2_1799999999999997_12_18_e5cb2db2": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What might explain the combination of electronic and acoustic elements?",
+      "answer": "Possible use of synthesized instruments alongside processed guitar samples.",
+      "domain": "0MA"
+    }
+  },
+  {
+    "ob0SRZsUgpY_2_1799999999999997_12_18_4cdebe1f": {
+      "category": "environment_reasoning",
+      "difficulty": "complex",
+      "question": "What recording condition could produce this sound profile?",
+      "answer": "Low-bitrate digital conversion or heavily compressed audio transmission.",
+      "domain": "0MA"
+    }
+  },
+  {
+    "ob0SRZsUgpY_2_1799999999999997_12_18_7650f3b1": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Are there any distinct non-musical elements present?",
+      "answer": "Yes, intermittent click-like artifacts and background hiss.",
+      "domain": "0MA"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "ob0SRZsUgpY_2_1799999999999997_12_18": {
+    "short": [
+      "Electronic music with synthesized tones and intermittent clicks in low-quality recording.",
+      "Synthesizer-driven track containing sporadic popping sounds and poor fidelity.",
+      "Degraded electronic composition featuring keyboard textures and abrupt transient noises."
+    ],
+    "long": [
+      "An electronic musical piece combining synthesized elements and guitar-like timbres, interrupted by occasional plosive clicks, with significant background interference and muffled audio quality throughout.",
+      "Synthetic instrumental music blending keyboard tones and percussive artifacts, marred by persistent distortion and low clarity.",
+      "Electronically processed composition with intermittent popping sounds, exhibiting heavy compression artifacts and muffled frequency response."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of vocal utterances or dialogue"
+    ],
+    "music": [
+      "Electronic music featuring synthesizer and guitar-like elements with unstable rhythmic structure.",
+      "Synthetic instrumentation combining keyboard textures and distorted string tones.",
+      "Electronically processed composition with hybrid acoustic-digital characteristics."
+    ],
+    "sound": [
+      "Intermittent plosive clicks and background interference patterns.",
+      "Sporadic popping sounds with persistent electrical noise.",
+      "Transient click artifacts amid low-frequency hum."
+    ],
+    "environment": [
+      "Poor quality recording with compressed dynamics and electrical interference.",
+      "Heavily degraded audio exhibiting muffled frequencies and distortion.",
+      "Low-fidelity acoustic environment with digital artifacts."
+    ],
+    "domain": "0MA"
+  }
+}

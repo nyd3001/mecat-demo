@@ -1,0 +1,35 @@
+{
+  "D8wenZQ4bqM_137_35899999999998_147_359": {
+    "short": [
+      "A running vehicle engine with persistent background distortion.",
+      "Mechanical operation noise featuring engine sounds and interference.",
+      "Motorized vehicle activity with audio artifacts."
+    ],
+    "long": [
+      "A sustained vehicle engine sound dominates the recording, accompanied by significant background noise and audio degradation. No speech or musical elements are present.",
+      "Continuous mechanical operation noise with prominent distortion and no discernible secondary elements.",
+      "Persistent motorized activity featuring engine sounds and poor recording quality."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Absence of verbal communication"
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Absence of melodic content"
+    ],
+    "sound": [
+      "Mechanical operation sounds consistent with vehicle activity",
+      "Engine noise characteristic of motorized transport",
+      "Machinery sounds suggesting vehicular operation"
+    ],
+    "environment": [
+      "Poor quality recording with significant background interference",
+      "Audio degradation dominates acoustic environment",
+      "Persistent distortion obscures recording clarity"
+    ],
+    "domain": "00A"
+  }
+}

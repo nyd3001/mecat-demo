@@ -1,0 +1,35 @@
+{
+  "9zxI7AOapXA_132_31_142_31": {
+    "short": [
+      "Female narration over electronic music with bell accents in a studio environment.",
+      "A woman's voice accompanies synthesized melodies and subtle bell tones in a controlled acoustic space.",
+      "Electronic instrumental backing with vocal narration and occasional bell sounds, minimal background noise."
+    ],
+    "long": [
+      "A steady electronic composition featuring synthesizers and periodic bell tones supports clear female speech discussing entertainment companies, with slight background interference.",
+      "Female presenter details corporate entities over a structured electronic track containing bell-like accents and low-level studio noise.",
+      "Synthesized melody with metallic percussive elements underlies a professional narration about entertainment labels, minor audio artifacts present."
+    ],
+    "speech": [
+      "Female speaker enumerating entertainment company subsidiaries and management details.",
+      "Woman discussing K-pop agency affiliations and indie label operations.",
+      "Narration listing entertainment conglomerates and their associated artists."
+    ],
+    "music": [
+      "Electronic instrumental with synth-driven melody and bell accents, moderate tempo.",
+      "Synthesizer-based composition featuring delayed melodic patterns and metallic tones.",
+      "Steady electronic arrangement combining artificial timbres with periodic bell sounds."
+    ],
+    "sound": [
+      "Metallic bell-like accents punctuate electronic instrumentation.",
+      "Intermittent high-pitched metallic tones within synthesized soundscape.",
+      "Artificial bell sounds recurring through electronic musical elements."
+    ],
+    "environment": [
+      "Controlled studio environment with minor broadband noise interference.",
+      "Acoustically treated recording space showing slight electrical hum.",
+      "Professional recording setting with low-level background artifacts."
+    ],
+    "domain": "SMA"
+  }
+}

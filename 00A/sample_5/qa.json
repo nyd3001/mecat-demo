@@ -1,0 +1,47 @@
+[
+  {
+    "DpDKW7sZO00_38_88335_48_8834_552f9098": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What types of animal sounds are present?",
+      "answer": "Bird chirps and dog barks",
+      "domain": "00A"
+    }
+  },
+  {
+    "DpDKW7sZO00_38_88335_48_8834_ddb506a2": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How do the bird and dog sounds interact temporally?",
+      "answer": "Bird calls occur throughout with occasional overlapping barking",
+      "domain": "00A"
+    }
+  },
+  {
+    "DpDKW7sZO00_38_88335_48_8834_e7659994": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What evidence suggests artificial audio processing?",
+      "answer": "Abrupt noise cuts and metallic artifacts in background",
+      "domain": "00A"
+    }
+  },
+  {
+    "DpDKW7sZO00_38_88335_48_8834_60901871": {
+      "category": "quality_assessment",
+      "difficulty": "complex",
+      "question": "What conflicting priorities exist in this recording's technical quality?",
+      "answer": "Noise reduction efforts introduced artifacts while attempting to isolate biological sounds",
+      "domain": "00A"
+    }
+  },
+  {
+    "DpDKW7sZO00_38_88335_48_8834_1e045cc8": {
+      "category": "inference_judgement",
+      "difficulty": "intermediate",
+      "question": "Are there any indications of indoor recording characteristics?",
+      "answer": "No, the acoustic profile suggests open outdoor environment",
+      "domain": "00A"
+    }
+  }
+]

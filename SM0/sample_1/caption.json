@@ -1,0 +1,35 @@
+{
+  "9DMrXbDG9sg_21_50985_31_5099": {
+    "short": [
+      "Two women excitedly discuss a game with upbeat electronic music.",
+      "An enthusiastic conversation about gameplay accompanied by lively synth melodies.",
+      "Cheerful female voices planning a game to rhythmic electronic instrumentation."
+    ],
+    "long": [
+      "A lively conversation between two enthusiastic female voices about game rules, with energetic electronic music featuring synthesizers and drums, though the recording has mild background interference.",
+      "Two animated speakers negotiate gameplay strategies amidst pulsing electronic beats, with occasional audio artifacts.",
+      "Upbeat dialogue about winning challenges accompanied by synthetic basslines and percussion, recorded with slight echo."
+    ],
+    "speech": [
+      "Female voices discussing game participation with rising excitement.",
+      "Two speakers enthusiastically outlining game rules.",
+      "Cheerful verbal exchange about collaborative gameplay."
+    ],
+    "music": [
+      "Playful electronic music with synth-driven rhythm.",
+      "Upbeat synthetic melodies with danceable tempo.",
+      "Bouncy electronic instrumentation supporting vocal exchange."
+    ],
+    "sound": [
+      "None",
+      "No distinct non-speech/musical sound events",
+      "No isolated environmental or object sounds"
+    ],
+    "environment": [
+      "Moderate room acoustics with inconsistent noise floor.",
+      "Semi-dampened space with fluctuating background interference.",
+      "Indoor recording exhibiting mild reverberation artifacts."
+    ],
+    "domain": "SM0"
+  }
+}

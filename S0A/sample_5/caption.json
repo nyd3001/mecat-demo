@@ -1,0 +1,35 @@
+{
+  "PXfzjhCtehM_132_14600000000002_142_146": {
+    "short": [
+      "Male voice explaining technical concepts with intermittent keyboard typing in low-quality recording.",
+      "German-language tutorial narration accompanied by occasional keystrokes and audio artifacts.",
+      "Technical explanation in German with keyboard sounds and persistent background static."
+    ],
+    "long": [
+      "A male speaker provides detailed German-language instructions about graphical programming concepts, accompanied by intermittent keyboard typing sounds. The recording exhibits noticeable background interference and low overall clarity.",
+      "A tutorial-style audio segment features a male voice discussing JavaScript rectangle functions with accompanying keyboard noise and consistent static.",
+      "German narration of programming methods with periodic typing sounds and degraded audio quality throughout."
+    ],
+    "speech": [
+      "Technical German narration about canvas drawing methods and rectangle functions.",
+      "Detailed explanation in German regarding graphical programming techniques.",
+      "Male voice systematically describing JavaScript drawing procedures."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected.",
+      "Musical content appears absent."
+    ],
+    "sound": [
+      "Intermittent keyboard typing sounds with persistent background static.",
+      "Occasional computer keyboard noise amid constant low-quality interference.",
+      "Periodic typing sounds layered over steady audio artifacts."
+    ],
+    "environment": [
+      "Low-quality recording with significant background interference and static.",
+      "Audio exhibits poor clarity with noticeable persistent noise.",
+      "Degraded recording quality characterized by background static."
+    ],
+    "domain": "S0A"
+  }
+}

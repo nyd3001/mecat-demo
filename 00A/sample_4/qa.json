@@ -1,0 +1,47 @@
+[
+  {
+    "D8wenZQ4bqM_137_35899999999998_147_359_5700f34e": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of sound is most prominent?",
+      "answer": "A vehicle engine sound",
+      "domain": "00A"
+    }
+  },
+  {
+    "D8wenZQ4bqM_137_35899999999998_147_359_698f1287": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the background interference?",
+      "answer": "Persistent distortion and audio degradation",
+      "domain": "00A"
+    }
+  },
+  {
+    "D8wenZQ4bqM_137_35899999999998_147_359_c8708422": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests this isn't a studio recording?",
+      "answer": "Significant background noise and poor audio quality",
+      "domain": "00A"
+    }
+  },
+  {
+    "D8wenZQ4bqM_137_35899999999998_147_359_9a21c33c": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What maintenance issue might the sound indicate?",
+      "answer": "None - audio quality prevents mechanical diagnosis",
+      "domain": "00A"
+    }
+  },
+  {
+    "D8wenZQ4bqM_137_35899999999998_147_359_adc9d755": {
+      "category": "quality_assessment",
+      "difficulty": "basic",
+      "question": "Is the recording clear?",
+      "answer": "No, significant distortion is present",
+      "domain": "00A"
+    }
+  }
+]

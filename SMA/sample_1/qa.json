@@ -1,0 +1,47 @@
+[
+  {
+    "tFg4IwL09Rk_111_64000000000001_121_64_b4dfbcf5": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is speech present in the audio?",
+      "answer": "Yes, a male voice briefly says 'We over'",
+      "domain": "SMA"
+    }
+  },
+  {
+    "tFg4IwL09Rk_111_64000000000001_121_64_11091ce4": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "What type of non-musical sounds are most prominent?",
+      "answer": "Water splashing and electrical static",
+      "domain": "SMA"
+    }
+  },
+  {
+    "tFg4IwL09Rk_111_64000000000001_121_64_468ec336": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What acoustic environment does the recording suggest?",
+      "answer": "An outdoor watery environment with poor recording equipment",
+      "domain": "SMA"
+    }
+  },
+  {
+    "tFg4IwL09Rk_111_64000000000001_121_64_5c54c46d": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What likely caused the audio quality issues?",
+      "answer": "Electrical interference and low-quality recording equipment",
+      "domain": "SMA"
+    }
+  },
+  {
+    "tFg4IwL09Rk_111_64000000000001_121_64_b62ca76e": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Does the audio have clear musical elements?",
+      "answer": "Yes, distinct electronic instrumentation is present despite interference",
+      "domain": "SMA"
+    }
+  }
+]

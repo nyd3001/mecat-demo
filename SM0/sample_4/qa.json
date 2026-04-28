@@ -1,0 +1,47 @@
+[
+  {
+    "kkWmzWWzXpc_86_15355_96_1535_da8fa682": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of voice is heard?",
+      "answer": "An adult female voice",
+      "domain": "SM0"
+    }
+  },
+  {
+    "kkWmzWWzXpc_86_15355_96_1535_be81710b": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the musical accompaniment?",
+      "answer": "Steady electronic rhythm with synthesized tones",
+      "domain": "SM0"
+    }
+  },
+  {
+    "kkWmzWWzXpc_86_15355_96_1535_e56fce90": {
+      "category": "quality_assessment",
+      "difficulty": "advanced",
+      "question": "Are there any notable audio imperfections?",
+      "answer": "Minor background hiss without significant distortion",
+      "domain": "SM0"
+    }
+  },
+  {
+    "kkWmzWWzXpc_86_15355_96_1535_1cda4ec0": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What type of content is the speaker most likely presenting?",
+      "answer": "Specialized equipment demonstration or product showcase",
+      "domain": "SM0"
+    }
+  },
+  {
+    "kkWmzWWzXpc_86_15355_96_1535_702e6a6b": {
+      "category": "environment_reasoning",
+      "difficulty": "intermediate",
+      "question": "Does this sound like a live recording or studio production?",
+      "answer": "Studio-produced audio with controlled acoustics",
+      "domain": "SM0"
+    }
+  }
+]

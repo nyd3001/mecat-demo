@@ -1,0 +1,35 @@
+{
+  "uoUdsDDnOLo_264_08000000000004_274_08": {
+    "short": [
+      "Live audience interaction with alternating speakers and crowd reactions",
+      "Speaker addressing crowd with intermittent cheering",
+      "Audience participation segment with multiple voices"
+    ],
+    "long": [
+      "A male speaker engages a live audience, met with crowd cheers between statements, while a secondary female voice briefly interjects. Moderate background noise persists throughout.",
+      "Live event recording featuring audience-responsive dialogue with overlapping voices and ambient interference",
+      "Crowd interaction sequence containing primary speaker's questions, audience reactions, and momentary secondary participation"
+    ],
+    "speech": [
+      "Male speaker questioning audience origins with crowd responses, followed by brief female interjection",
+      "Main presenter asking crowd about geographic backgrounds with cheering feedback",
+      "Host conducting audience survey with excited responses and short secondary comment"
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Musical components appear absent"
+    ],
+    "sound": [
+      "Crowd cheering segments between speech, persistent ambient noise",
+      "Audience reactions punctuating dialogue with constant low-quality interference",
+      "Periodic crowd noise amid speech with background disturbance"
+    ],
+    "environment": [
+      "Live event space with crowd acoustics and recording interference",
+      "Auditorium-type environment showing audience presence and technical imperfections",
+      "Public gathering space with crowd reverberation and equipment noise"
+    ],
+    "domain": "S0A"
+  }
+}

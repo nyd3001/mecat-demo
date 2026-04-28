@@ -1,0 +1,35 @@
+{
+  "quPyL3SXsdk_46_3013_56_3013": {
+    "short": [
+      "A technical explanation in neutral tone with clear studio recording quality.",
+      "Neutral-voiced demonstration of interface features in controlled acoustic environment.",
+      "Clear narration describing digital navigation processes with professional voice quality."
+    ],
+    "long": [
+      "An English-speaking voice demonstrates software functionality using dictionary examples, maintaining professional tone despite minor acoustic variations in the recording space.",
+      "A US-accented presenter explains interface navigation concepts with consistent diction, recorded in studio conditions with minimal background interference.",
+      "Detailed technical narration about digital tool usage, delivered in steady vocal tone within acoustically treated environment."
+    ],
+    "speech": [
+      "Software interface demonstration with dictionary examples spoken in US English.",
+      "Digital navigation tutorial narrated in American English accent.",
+      "Explanation of computerized dictionary features through spoken examples."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected",
+      "Absence of instrumental or melodic content"
+    ],
+    "sound": [
+      "None",
+      "No distinct sound events beyond primary speech",
+      "Lack of identifiable non-vocal audio events"
+    ],
+    "environment": [
+      "Studio-quality recording with minor acoustic fluctuations.",
+      "Controlled recording environment showing slight reverberation variations.",
+      "Professionally captured audio with minimal background interference."
+    ],
+    "domain": "S00"
+  }
+}

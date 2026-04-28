@@ -1,0 +1,47 @@
+[
+  {
+    "irx1fuH6drU_147_953_157_953_cee78077": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What types of audio elements are present?",
+      "answer": "A male voice speaking clearly with background instrumental music",
+      "domain": "SM0"
+    }
+  },
+  {
+    "irx1fuH6drU_147_953_157_953_8555410b": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the musical mood?",
+      "answer": "Upbeat and cheerful with rhythmic guitar and percussion",
+      "domain": "SM0"
+    }
+  },
+  {
+    "irx1fuH6drU_147_953_157_953_4a1bf6a8": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What suggests studio-like recording qualities?",
+      "answer": "Balanced voice/music mix with minimal environmental noise",
+      "domain": "SM0"
+    }
+  },
+  {
+    "irx1fuH6drU_147_953_157_953_7bdc9c03": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What musical elements create the coffee shop ambiance?",
+      "answer": "Acoustic guitar melodies combined with steady percussion patterns",
+      "domain": "SM0"
+    }
+  },
+  {
+    "irx1fuH6drU_147_953_157_953_2787367f": {
+      "category": "quality_assessment",
+      "difficulty": "basic",
+      "question": "Is the voice easily distinguishable from the music?",
+      "answer": "Yes, the narration remains clear throughout the recording",
+      "domain": "SM0"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "6O2RbL88ZF4_265_0555_275_055_812524d2": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of vocal content is present?",
+      "answer": "A male voice describing technical construction details",
+      "domain": "S00"
+    }
+  },
+  {
+    "6O2RbL88ZF4_265_0555_275_055_b111892d": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "How would you describe the vocal clarity?",
+      "answer": "Clear speech articulation despite competing low-frequency noise",
+      "domain": "S00"
+    }
+  },
+  {
+    "6O2RbL88ZF4_265_0555_275_055_e7c8c450": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What environment suggests the recording location?",
+      "answer": "An enclosed utility space with mechanical infrastructure",
+      "domain": "S00"
+    }
+  },
+  {
+    "6O2RbL88ZF4_265_0555_275_055_8871938e": {
+      "category": "quality_assessment",
+      "difficulty": "complex",
+      "question": "What limits the recording's listenability?",
+      "answer": "Persistent ambient interference masks finer audio details",
+      "domain": "S00"
+    }
+  },
+  {
+    "6O2RbL88ZF4_265_0555_275_055_545419e5": {
+      "category": "inference_judgement",
+      "difficulty": "intermediate",
+      "question": "What activity is being described?",
+      "answer": "Retrofitting of vintage plumbing systems",
+      "domain": "S00"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "LOdzdQgttiI_270_233_280_233_af0da2dc": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What primary sounds are present?",
+      "answer": "Wind interference and vehicle noises",
+      "domain": "00A"
+    }
+  },
+  {
+    "LOdzdQgttiI_270_233_280_233_ff449e84": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Does the recording have technical flaws?",
+      "answer": "Yes, there's noticeable distortion and abrupt audio cuts",
+      "domain": "00A"
+    }
+  },
+  {
+    "LOdzdQgttiI_270_233_280_233_86d0b9aa": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What environment does the audio suggest?",
+      "answer": "An outdoor location with wind exposure near a road",
+      "domain": "00A"
+    }
+  },
+  {
+    "LOdzdQgttiI_270_233_280_233_a5155667": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "What recording equipment limitation is evident?",
+      "answer": "Inadequate wind protection for the microphone",
+      "domain": "00A"
+    }
+  },
+  {
+    "LOdzdQgttiI_270_233_280_233_07e20007": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Are any human-made sounds present besides vehicles?",
+      "answer": "No discernible speech or other human activity",
+      "domain": "00A"
+    }
+  }
+]
