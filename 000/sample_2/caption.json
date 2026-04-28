@@ -1,0 +1,35 @@
+{
+  "0FO81w3x6Ac_70_21665_80_2167": {
+    "short": [
+      "Silent audio segment with severe quality degradation.",
+      "Corrupted audio clip containing only silence.",
+      "Technical silence with significant signal impairments."
+    ],
+    "long": [
+      "A completely silent audio segment exhibiting heavy distortion and noise artifacts, suggesting file corruption or recording failure.",
+      "Severely degraded silent recording with no detectable content.",
+      "Technical silence accompanied by substantial audio quality issues."
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content.",
+      "Speech elements appear absent."
+    ],
+    "music": [
+      "None",
+      "No musical elements detected.",
+      "Musical content appears absent."
+    ],
+    "sound": [
+      "None",
+      "No identifiable sound events.",
+      "Sound events appear absent."
+    ],
+    "environment": [
+      "Technical silence with severe signal degradation.",
+      "Artificial silence with digital artifacts.",
+      "Corrupted silent environment with processing noise."
+    ],
+    "domain": "000"
+  }
+}

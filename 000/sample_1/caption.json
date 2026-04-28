@@ -1,0 +1,35 @@
+{
+  "EKbyE7sUNao_0_43874999999999975_10_4387": {
+    "short": [
+      "Complete silence with severe audio degradation throughout.",
+      "Extended period of muted audio with heavy distortion.",
+      "Uninterrupted silence accompanied by significant signal corruption."
+    ],
+    "long": [
+      "A 10-second audio segment contains only silence with extreme signal corruption, exhibiting characteristics of a missing or corrupted recording. No discernible speech, music, or environmental sounds are present.",
+      "Severely degraded silent audio lacking any identifiable content or acoustic events.",
+      "Continuous silence with profound technical artifacts suggesting file corruption."
+    ],
+    "speech": [
+      "None",
+      "No detectable speech content",
+      "Absence of verbal communication"
+    ],
+    "music": [
+      "None",
+      "No musical elements present",
+      "Complete lack of melodic content"
+    ],
+    "sound": [
+      "None",
+      "No identifiable sound events",
+      "Absence of distinct audio occurrences"
+    ],
+    "environment": [
+      "No detectable acoustic environment",
+      "Ambient characteristics unmeasurable",
+      "Undefined spatial acoustic properties"
+    ],
+    "domain": "000"
+  }
+}

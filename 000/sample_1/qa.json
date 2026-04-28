@@ -1,0 +1,47 @@
+[
+  {
+    "EKbyE7sUNao_0_43874999999999975_10_4387_4ba19047": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What does the lack of environmental characteristics suggest?",
+      "answer": "The recording lacks measurable acoustic space information",
+      "domain": "000"
+    }
+  },
+  {
+    "EKbyE7sUNao_0_43874999999999975_10_4387_96d34bc4": {
+      "category": "application_context",
+      "difficulty": "complex",
+      "question": "What recording scenario might explain this audio profile?",
+      "answer": "Potential equipment failure or corrupted file storage",
+      "domain": "000"
+    }
+  },
+  {
+    "EKbyE7sUNao_0_43874999999999975_10_4387_c64157bb": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What is the primary characteristic of this audio?",
+      "answer": "Complete silence with heavy distortion",
+      "domain": "000"
+    }
+  },
+  {
+    "EKbyE7sUNao_0_43874999999999975_10_4387_e3f5cc31": {
+      "category": "sound_characteristics",
+      "difficulty": "intermediate",
+      "question": "Does this contain more static or background hum?",
+      "answer": "Neither - only silence with signal corruption artifacts",
+      "domain": "000"
+    }
+  },
+  {
+    "EKbyE7sUNao_0_43874999999999975_10_4387_f96443e5": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "How would you describe the technical quality?",
+      "answer": "Severely degraded with apparent signal corruption",
+      "domain": "000"
+    }
+  }
+]

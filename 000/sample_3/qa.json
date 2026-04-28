@@ -1,0 +1,47 @@
+[
+  {
+    "0GbXyV0EpOM_131_533_141_533_318a6567": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is any speech detectable?",
+      "answer": "No vocal or speech elements present",
+      "domain": "000"
+    }
+  },
+  {
+    "0GbXyV0EpOM_131_533_141_533_475d696f": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "What type of audio content is present?",
+      "answer": "Complete silence with no detectable sounds",
+      "domain": "000"
+    }
+  },
+  {
+    "0GbXyV0EpOM_131_533_141_533_5dc5d48c": {
+      "category": "inference_judgement",
+      "difficulty": "complex",
+      "question": "Could this represent a technical failure?",
+      "answer": "Likely indicates intentional silence or recording error",
+      "domain": "000"
+    }
+  },
+  {
+    "0GbXyV0EpOM_131_533_141_533_c4ee73d0": {
+      "category": "environment_reasoning",
+      "difficulty": "advanced",
+      "question": "What environment does this recording suggest?",
+      "answer": "No environmental cues detectable in silent audio",
+      "domain": "000"
+    }
+  },
+  {
+    "0GbXyV0EpOM_131_533_141_533_d8b7d515": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "Is there any background noise present?",
+      "answer": "No, the recording shows absolute silence",
+      "domain": "000"
+    }
+  }
+]

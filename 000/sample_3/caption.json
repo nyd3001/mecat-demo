@@ -1,0 +1,35 @@
+{
+  "0GbXyV0EpOM_131_533_141_533": {
+    "short": [
+      "Complete silence throughout the audio segment",
+      "Total absence of audible content in recording",
+      "Uninterrupted silence detected across entire clip"
+    ],
+    "long": [
+      "A completely silent audio segment with no detectable speech, music, or environmental sounds, exhibiting characteristics consistent with digital silence.",
+      "Ten-second recording containing no audible content across all frequency ranges",
+      "Extended period of absolute silence with zero acoustic activity"
+    ],
+    "speech": [
+      "None",
+      "No discernible speech content",
+      "Complete absence of vocal utterances"
+    ],
+    "music": [
+      "None",
+      "No musical elements present",
+      "Musical content undetectable"
+    ],
+    "sound": [
+      "None",
+      "No identifiable sound events",
+      "Total lack of acoustic occurrences"
+    ],
+    "environment": [
+      "No environmental characteristics detectable",
+      "Absence of ambient acoustic signatures",
+      "Undefined environmental profile due to silence"
+    ],
+    "domain": "000"
+  }
+}

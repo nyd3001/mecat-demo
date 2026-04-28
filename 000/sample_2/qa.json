@@ -1,0 +1,47 @@
+[
+  {
+    "0FO81w3x6Ac_70_21665_80_2167_2b2c7b13": {
+      "category": "quality_assessment",
+      "difficulty": "intermediate",
+      "question": "What quality issues are present?",
+      "answer": "Severe distortion and digital noise throughout.",
+      "domain": "000"
+    }
+  },
+  {
+    "0FO81w3x6Ac_70_21665_80_2167_40e50ed0": {
+      "category": "sound_characteristics",
+      "difficulty": "basic",
+      "question": "Is there background hum or hiss?",
+      "answer": "No, but digital distortion masks true characteristics.",
+      "domain": "000"
+    }
+  },
+  {
+    "0FO81w3x6Ac_70_21665_80_2167_78adee0e": {
+      "category": "direct_perception",
+      "difficulty": "basic",
+      "question": "Is there audible content in this clip?",
+      "answer": "No, only silence with technical artifacts.",
+      "domain": "000"
+    }
+  },
+  {
+    "0FO81w3x6Ac_70_21665_80_2167_c2146746": {
+      "category": "application_context",
+      "difficulty": "complex",
+      "question": "Would this clip require special handling in archival systems?",
+      "answer": "Yes, as corrupted silent segments often need verification.",
+      "domain": "000"
+    }
+  },
+  {
+    "0FO81w3x6Ac_70_21665_80_2167_cd7b730c": {
+      "category": "inference_judgement",
+      "difficulty": "advanced",
+      "question": "What likely caused this audio signature?",
+      "answer": "File corruption or failed recording equipment.",
+      "domain": "000"
+    }
+  }
+]
