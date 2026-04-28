@@ -36,7 +36,7 @@
 
   .audio-wrapper { padding: 0.8rem 1rem; background: #fafbfc; border-bottom: 1px solid var(--border); }
   .audio-wrapper audio { width: 100%; height: 40px; }
-  .spectrogram { width: 100%; height: auto; margin-top: 0.5rem; border-radius: 4px; display: block; }
+
 
   .section-toggle { width: 100%; text-align: left; background: none; border: none; border-bottom: 1px solid var(--border); padding: 0.7rem 1rem; font-size: 0.9rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.5rem; color: var(--text); transition: background 0.15s; }
   .section-toggle:hover { background: #f8f9fa; }
@@ -157,10 +157,7 @@ function renderSample(s) {
       <span class="sample-title">${DOMAIN_LABELS[s.domain]||s.domain} ${s.sampleKey.replace('sample_','#')}</span>
       <span class="audio-id">${s.audio_id}</span>
     </div>
-    <div class="audio-wrapper">
-      <audio controls preload="none" src="${s.audio_src}"></audio>
-      <img class="spectrogram" src="${s.caption_file.replace('/caption.json','')}/spectrogram.png" alt="Mel Spectrogram" loading="lazy">
-    </div>
+    <div class="audio-wrapper"><audio controls preload="none" src="${s.audio_src}"></audio></div>
     <button class="section-toggle" onclick="this.classList.toggle('open');this.nextElementSibling.classList.toggle('open')">
       <span class="arrow">&#9654;</span> Captions (6 types x 3 variants)
     </button>
